@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First Project</string>
+    <string name="guess_the_number">GUESS THE NUMBER</string>
+    <string name="guess_a_number_between_0_100">Guess a number between 0-100</string>
+    <string name="name">Name</string>
+    <string name="submit">SUBMIT</string>
+    <string name="guess_number">guess number</string>
+    <string name="guess">guess</string>
+</resources>
